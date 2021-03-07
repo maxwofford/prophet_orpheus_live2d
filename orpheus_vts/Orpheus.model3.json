@@ -3,7 +3,7 @@
 	"FileReferences": {
 		"Moc": "Orpheus.moc3",
 		"Textures": [
-			"Orpheus.1024/texture_00.png"
+			"Orpheus.8192/texture_00.png"
 		],
 		"DisplayInfo": "Orpheus.cdi3.json"
 	}
