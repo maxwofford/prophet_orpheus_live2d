@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Orpheus.moc3",
+		"Textures": [
+			"Orpheus.1024/texture_00.png"
+		],
+		"DisplayInfo": "Orpheus.cdi3.json"
+	}
+}
