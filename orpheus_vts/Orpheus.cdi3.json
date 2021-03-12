@@ -7,11 +7,6 @@
 			"Name": "Angle X"
 		},
 		{
-			"Id": "ParamMouthOpenY",
-			"GroupId": "",
-			"Name": "Mouth Open"
-		},
-		{
 			"Id": "ParamAngleY",
 			"GroupId": "",
 			"Name": "Angle Y"
@@ -20,6 +15,11 @@
 			"Id": "ParamAngleZ",
 			"GroupId": "",
 			"Name": "Angle Z"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "Mouth Open"
 		},
 		{
 			"Id": "ParamEyeLOpen",
@@ -52,24 +52,24 @@
 			"Name": "Eyeball Y"
 		},
 		{
-			"Id": "ParamBrowLY",
-			"GroupId": "",
-			"Name": "BrowL Y"
-		},
-		{
-			"Id": "ParamBrowRY",
-			"GroupId": "",
-			"Name": "BrowR Y"
-		},
-		{
 			"Id": "ParamBrowLX",
 			"GroupId": "",
 			"Name": "BrowL X"
 		},
 		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "BrowL Y"
+		},
+		{
 			"Id": "ParamBrowRX",
 			"GroupId": "",
 			"Name": "BrowR X"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "BrowR Y"
 		},
 		{
 			"Id": "ParamBrowLAngle",
@@ -144,8 +144,16 @@
 			"Name": "New group"
 		},
 		{
+			"Id": "Head_and_Neck",
+			"Name": "Head_and_Neck"
+		},
+		{
 			"Id": "Head",
 			"Name": "Head"
+		},
+		{
+			"Id": "Neck_Group",
+			"Name": "Neck_Group"
 		},
 		{
 			"Id": "Mouth",
@@ -154,6 +162,10 @@
 		{
 			"Id": "Nose",
 			"Name": "Nose"
+		},
+		{
+			"Id": "Eyes",
+			"Name": "Eyes"
 		},
 		{
 			"Id": "Part3",
@@ -166,8 +178,20 @@
 	],
 	"CombinedParameters": [
 		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
 			"ParamEyeBallX",
 			"ParamEyeBallY"
+		],
+		[
+			"ParamBrowLX",
+			"ParamBrowLY"
+		],
+		[
+			"ParamBrowRX",
+			"ParamBrowRY"
 		]
 	]
 }
