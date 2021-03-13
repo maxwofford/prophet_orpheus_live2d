@@ -13,7 +13,7 @@ This model is heavily based on [Chester by Kris Yim](https://www.polygon.com/202
 
 ### Required software
 
-You'll need to download Live2D Cubism. This model relies on the Pro version, but they give you a 42 day free trial, so you basically don't have to pay for it-- this is the second version of orpheus I've made from scratch and I've got 35 days left in the trial).
+You'll need to download [Live2D Cubism](http://www.live2d.com/en/download/cubism/). This model relies on the Pro version, but they give you a 42 day free trial, so you basically don't have to pay for it-- this is the second version of orpheus I've made from scratch and I've got 35 days left in the trial).
 
 You'll also need something for editing PSD files. There are many ways to edit PSD files:
 
@@ -23,9 +23,13 @@ You'll also need something for editing PSD files. There are many ways to edit PS
 
 ### Editing the drawing
 
-To change how orpheus is drawn, go ahead and edit the PSD file. Keep in mind that everything should be _generally_ in the same folder/layer structure it currently is for Live2D Cubism to update it's existing model with a new PSD.
+[![Drawing timelapse](https://cloud-8hp54yesw-hack-club-bot.vercel.app/1ezgif.com-gif-maker.1.gif)](https://www.youtube.com/watch?v=Ojqn8RNO89Q&list=PLEWtscELvzsSgWkDAzzClG0dx9ruWsg3S&index=27)
+
+To change the look of orpheus (colors, body parts, etc.), go ahead and edit the PSD file. Keep in mind that everything should be _generally_ in the same folder/layer structure it currently is for Live2D Cubism to update it's existing model with a new PSD.
 
 ### Editing the Live2D
+
+[![A taste of animating](https://cloud-8hp54yesw-hack-club-bot.vercel.app/0ezgif.com-gif-maker.2.gif)](https://www.youtube.com/watch?v=1XjV7Uwj5Xk&list=PLEWtscELvzsSgWkDAzzClG0dx9ruWsg3S&index=24)
 
 To change the position of any individual parts (ex, pupils, nostrils, etc.), or to give orpheus a new animation, you'll need to open the `cmo3` file in Live2D Cubism. It has a bit of a learning curve, but, there's a huge community of online tutorials and youtube videos on how to make/edit Live2D models.
 
