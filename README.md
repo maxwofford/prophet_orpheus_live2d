@@ -1,5 +1,5 @@
 [![Animated orpheus moving her head around](https://cloud-phgwn12ix-hack-club-bot.vercel.app/0ezgif.com-gif-maker.gif)](https://www.youtube.com/watch?v=Clt2h2PgPuU&list=PLEWtscELvzsSgWkDAzzClG0dx9ruWsg3S&index=2)
-> https://www.youtube.com/watch?v=Clt2h2PgPuU
+> https://www.youtube.com/watch?v=Clt2h2PgPuU&list=PLEWtscELvzsSgWkDAzzClG0dx9ruWsg3S&index=2
 
 This repo houses the all the files for my first Live2D Cubism model.
 
